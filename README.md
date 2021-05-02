@@ -1,7 +1,8 @@
 # Test-Automation-Framework
 my first test automation framework 
  
- #Technolgy Used:
+ # Technolgy-Used:
+ 
  1-Maven
  2-TestNG
  3-BDD
