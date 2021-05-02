@@ -1,0 +1,316 @@
+[INFO  - 2021-05-02T19:36:13.311Z] GhostDriver - Main - running on port 23815
+[INFO  - 2021-05-02T19:36:14.078Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-05-02T19:36:14.079Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.customHeaders:  - {}
+[INFO  - 2021-05-02T19:36:14.079Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-05-02T19:36:14.080Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f
+[ERROR - 2021-05-02T19:36:16.297Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.forEach(function(a){a.addEventListener("mousedown",b)})')
+[ERROR - 2021-05-02T19:36:16.298Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://www.levelset.com/:1)
+[ERROR - 2021-05-02T19:36:16.447Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'a(window)')
+[ERROR - 2021-05-02T19:36:16.448Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/themes/levelset/dist/js/lib/magnific-popup.min.js?ver=2.78.0:4)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/themes/levelset/dist/js/lib/magnific-popup.min.js?ver=2.78.0:4)
+[ERROR - 2021-05-02T19:36:16.454Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[ERROR - 2021-05-02T19:36:16.454Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  a (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:36:16.461Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.fn')
+[ERROR - 2021-05-02T19:36:16.462Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/themes/levelset/dist/js/lib/owl.carousel.min.js?ver=2.78.0:6)
+[ERROR - 2021-05-02T19:36:16.524Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T19:36:16.525Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:36:48.437Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T19:36:48.438Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T19:36:49.293Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: No default value
+[ERROR - 2021-05-02T19:36:49.293Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+[ERROR - 2021-05-02T19:37:18.108Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984238102
+[ERROR - 2021-05-02T19:37:19.025Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984239015
+[ERROR - 2021-05-02T19:37:19.930Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984239870
+[ERROR - 2021-05-02T19:37:20.832Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984240775
+[ERROR - 2021-05-02T19:37:21.722Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984241697
+[ERROR - 2021-05-02T19:37:22.587Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984242577
+[ERROR - 2021-05-02T19:37:23.457Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984243448
+[ERROR - 2021-05-02T19:37:24.313Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984244304
+[ERROR - 2021-05-02T19:37:25.196Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984245180
+[ERROR - 2021-05-02T19:37:26.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984246044
+[ERROR - 2021-05-02T19:37:26.960Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984246950
+[ERROR - 2021-05-02T19:37:27.866Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984247807
+[ERROR - 2021-05-02T19:37:29.448Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.forEach(function(a){a.addEventListener("mousedown",b)})')
+[ERROR - 2021-05-02T19:37:29.449Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://www.levelset.com/:1)
+[ERROR - 2021-05-02T19:37:29.573Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[ERROR - 2021-05-02T19:37:29.573Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  a (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:37:29.577Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T19:37:29.577Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:37:34.190Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T19:37:34.191Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T19:37:36.562Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: There was an uncaught error in https://app.levelset.com/resources/javascript/system/contacts-autocomplete.js at line 303: SyntaxError: Expected an identifier but found 'address_item' instead
+[ERROR - 2021-05-02T19:37:36.562Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://app.levelset.com/resources/dist/external_create_document.e3e2bd3247b1cc965f0b.min.js:1)
+[ERROR - 2021-05-02T19:37:47.217Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: Unhandled promise rejection AbortError: Aborted
+[ERROR - 2021-05-02T19:37:47.218Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  exports (https://app.levelset.com/resources/dist/initial-vendors.9047eed4d18d6044b670.min.js:153)
+[ERROR - 2021-05-02T19:37:47.218Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: Unhandled promise rejection AbortError: Aborted
+[ERROR - 2021-05-02T19:37:47.218Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  exports (https://app.levelset.com/resources/dist/initial-vendors.9047eed4d18d6044b670.min.js:153)
+[ERROR - 2021-05-02T19:37:48.220Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.forEach(function(a){a.addEventListener("mousedown",b)})')
+[ERROR - 2021-05-02T19:37:48.220Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://www.levelset.com/:1)
+[ERROR - 2021-05-02T19:37:48.244Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[ERROR - 2021-05-02T19:37:48.244Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  a (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:37:48.245Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T19:37:48.246Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:37:52.777Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T19:37:52.777Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T19:37:53.656Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: There was an uncaught error in https://app.levelset.com/resources/javascript/system/contacts-autocomplete.js at line 303: SyntaxError: Expected an identifier but found 'address_item' instead
+[ERROR - 2021-05-02T19:37:53.656Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://app.levelset.com/resources/dist/external_create_document.e3e2bd3247b1cc965f0b.min.js:1)
+[ERROR - 2021-05-02T19:38:00.238Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984280176
+[ERROR - 2021-05-02T19:38:01.438Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984281387
+[ERROR - 2021-05-02T19:38:02.516Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984282472
+[ERROR - 2021-05-02T19:38:03.576Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984283523
+[ERROR - 2021-05-02T19:38:04.570Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984284568
+[ERROR - 2021-05-02T19:38:05.595Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984285555
+[ERROR - 2021-05-02T19:38:06.586Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984286584
+[ERROR - 2021-05-02T19:38:07.590Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984287577
+[ERROR - 2021-05-02T19:38:08.603Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984288591
+[ERROR - 2021-05-02T19:38:09.658Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984289599
+[ERROR - 2021-05-02T19:38:10.726Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619984290653
+[ERROR - 2021-05-02T19:38:11.326Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: Unhandled promise rejection AbortError: Aborted
+[ERROR - 2021-05-02T19:38:11.327Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  exports (https://app.levelset.com/resources/dist/initial-vendors.9047eed4d18d6044b670.min.js:153)
+[ERROR - 2021-05-02T19:38:12.992Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.forEach(function(a){a.addEventListener("mousedown",b)})')
+[ERROR - 2021-05-02T19:38:12.992Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://www.levelset.com/:1)
+[ERROR - 2021-05-02T19:38:13.387Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[ERROR - 2021-05-02T19:38:13.387Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  a (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:38:13.389Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T19:38:13.389Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T19:38:18.445Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T19:38:18.445Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T19:38:20.009Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - msg: There was an uncaught error in https://app.levelset.com/resources/javascript/system/contacts-autocomplete.js at line 303: SyntaxError: Expected an identifier but found 'address_item' instead
+[ERROR - 2021-05-02T19:38:20.009Z] Session [a7e02b40-ab7d-11eb-ba1f-dd5b2fc2b89f] - page.onError - stack:
+  (anonymous function) (https://app.levelset.com/resources/dist/external_create_document.e3e2bd3247b1cc965f0b.min.js:1)
+[INFO  - 2021-05-02T19:41:13.329Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T19:46:13.327Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T19:51:13.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T19:56:13.366Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:01:13.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:06:13.387Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:11:13.403Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:16:13.417Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:21:13.420Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:26:13.421Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:31:13.431Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:36:13.443Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:41:13.443Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:46:13.465Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:51:13.465Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:56:13.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:01:13.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:06:13.487Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:11:13.498Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:16:13.499Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:21:13.507Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:26:13.507Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:31:13.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:36:13.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:41:13.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+on) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:02:31.552Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T20:02:31.552Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:03:04.315Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T20:03:04.315Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T20:03:04.924Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: No default value
+[ERROR - 2021-05-02T20:03:04.924Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+[ERROR - 2021-05-02T20:03:09.117Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985789103
+[ERROR - 2021-05-02T20:03:10.181Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985790068
+[ERROR - 2021-05-02T20:03:11.083Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985791028
+[ERROR - 2021-05-02T20:03:12.007Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985791948
+[ERROR - 2021-05-02T20:03:12.870Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985792856
+[ERROR - 2021-05-02T20:03:13.761Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985793749
+[ERROR - 2021-05-02T20:03:14.633Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985794621
+[ERROR - 2021-05-02T20:03:15.517Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985795510
+[ERROR - 2021-05-02T20:03:16.436Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985796369
+[ERROR - 2021-05-02T20:03:17.334Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985797311
+[ERROR - 2021-05-02T20:03:18.264Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985798236
+[ERROR - 2021-05-02T20:03:19.135Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985799132
+[ERROR - 2021-05-02T20:03:20.572Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not an object (evaluating 'a.fn')
+[ERROR - 2021-05-02T20:03:20.573Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/themes/levelset/dist/js/lib/owl.carousel.min.js?ver=2.78.0:6)
+[ERROR - 2021-05-02T20:03:20.626Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'a(window)')
+[ERROR - 2021-05-02T20:03:20.626Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/themes/levelset/dist/js/lib/magnific-popup.min.js?ver=2.78.0:4)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/themes/levelset/dist/js/lib/magnific-popup.min.js?ver=2.78.0:4)
+[ERROR - 2021-05-02T20:03:20.629Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[ERROR - 2021-05-02T20:03:20.630Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  a (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:03:20.634Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T20:03:20.634Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:03:20.670Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.forEach(function(a){a.addEventListener("mousedown",b)})')
+[ERROR - 2021-05-02T20:03:20.670Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://www.levelset.com/:1)
+[ERROR - 2021-05-02T20:03:25.447Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T20:03:25.447Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T20:03:26.945Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: There was an uncaught error in https://app.levelset.com/resources/javascript/system/contacts-autocomplete.js at line 303: SyntaxError: Expected an identifier but found 'address_item' instead
+[ERROR - 2021-05-02T20:03:26.945Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://app.levelset.com/resources/dist/external_create_document.e3e2bd3247b1cc965f0b.min.js:1)
+[ERROR - 2021-05-02T20:04:19.588Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Unhandled promise rejection AbortError: Aborted
+[ERROR - 2021-05-02T20:04:19.588Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  exports (https://app.levelset.com/resources/dist/initial-vendors.9047eed4d18d6044b670.min.js:153)
+[ERROR - 2021-05-02T20:04:19.589Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Unhandled promise rejection AbortError: Aborted
+[ERROR - 2021-05-02T20:04:19.589Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  exports (https://app.levelset.com/resources/dist/initial-vendors.9047eed4d18d6044b670.min.js:153)
+[ERROR - 2021-05-02T20:04:20.410Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.forEach(function(a){a.addEventListener("mousedown",b)})')
+[ERROR - 2021-05-02T20:04:20.410Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://www.levelset.com/:1)
+[ERROR - 2021-05-02T20:04:20.537Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[ERROR - 2021-05-02T20:04:20.538Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  a (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:04:20.540Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T20:04:20.540Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:04:27.535Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll('input[type\x3dhidden][name\x3d"'+b+'"]').forEach(function(a){a.value=levelsetUTM__getCookie(b)})')
+[ERROR - 2021-05-02T20:04:27.535Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  levelsetUTM__fillHiddenHubspotField (https://www.levelset.com/:4)
+  forEach (:0)
+  (anonymous function) (https://www.levelset.com/:5)
+[ERROR - 2021-05-02T20:04:28.511Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T20:04:28.511Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T20:04:29.512Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: There was an uncaught error in https://app.levelset.com/resources/javascript/system/contacts-autocomplete.js at line 303: SyntaxError: Expected an identifier but found 'address_item' instead
+[ERROR - 2021-05-02T20:04:29.512Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://app.levelset.com/resources/dist/external_create_document.e3e2bd3247b1cc965f0b.min.js:1)
+[ERROR - 2021-05-02T20:04:35.296Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985875244
+[ERROR - 2021-05-02T20:04:36.559Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985876503
+[ERROR - 2021-05-02T20:04:37.622Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985877556
+[ERROR - 2021-05-02T20:04:38.675Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985878642
+[ERROR - 2021-05-02T20:04:39.733Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985879682
+[ERROR - 2021-05-02T20:04:40.832Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985880788
+[ERROR - 2021-05-02T20:04:41.907Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985881850
+[ERROR - 2021-05-02T20:04:42.926Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985882920
+[ERROR - 2021-05-02T20:04:43.999Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985883935
+[ERROR - 2021-05-02T20:04:45.210Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1619985885153
+[ERROR - 2021-05-02T20:04:45.877Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Unhandled promise rejection AbortError: Aborted
+[ERROR - 2021-05-02T20:04:45.877Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  exports (https://app.levelset.com/resources/dist/initial-vendors.9047eed4d18d6044b670.min.js:153)
+[ERROR - 2021-05-02T20:04:47.377Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'c.forEach(function(a){a.addEventListener("mousedown",b)})')
+[ERROR - 2021-05-02T20:04:47.377Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://www.levelset.com/:1)
+[ERROR - 2021-05-02T20:04:47.650Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: Invalid attempt to spread non-iterable instance.
+In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+[ERROR - 2021-05-02T20:04:47.650Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  exports (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  a (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:04:47.653Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
+[ERROR - 2021-05-02T20:04:47.653Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
+[ERROR - 2021-05-02T20:04:52.942Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Font Awesome Kit: Error
+[ERROR - 2021-05-02T20:04:52.942Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
+[ERROR - 2021-05-02T20:04:56.941Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: There was an uncaught error in https://app.levelset.com/resources/javascript/system/contacts-autocomplete.js at line 303: SyntaxError: Expected an identifier but found 'address_item' instead
+[ERROR - 2021-05-02T20:04:56.941Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
+  (anonymous function) (https://app.levelset.com/resources/dist/external_create_document.e3e2bd3247b1cc965f0b.min.js:1)
+[INFO  - 2021-05-02T20:07:24.938Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:12:24.940Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:17:24.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:22:24.962Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:27:24.962Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:32:24.967Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:37:24.971Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:42:24.982Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:47:24.983Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:52:24.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T20:57:24.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:02:25.009Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:07:25.021Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:12:25.030Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:17:25.038Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:22:25.047Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:27:25.056Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:32:25.057Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:37:25.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:42:25.077Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
