@@ -164,18 +164,19 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 [INFO  - 2021-05-02T21:31:13.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2021-05-02T21:36:13.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2021-05-02T21:41:13.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-on) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_9f230f1f8c2720d2d5330350c46613ab.js?ver=2.78.0:1)
-[ERROR - 2021-05-02T20:02:31.552Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document.querySelectorAll(".LevelsetCountdown").forEach')
-[ERROR - 2021-05-02T20:02:31.552Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
-  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
-  r (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
-  (anonymous function) (https://26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com/wp-content/cache/autoptimize/js/autoptimize_single_fb2230ccc2dc9d71936506fd1522ab35.js?ver=2.78.0:1)
-[ERROR - 2021-05-02T20:03:04.315Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: Font Awesome Kit: Error
-[ERROR - 2021-05-02T20:03:04.315Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
-  (anonymous function) (https://kit.fontawesome.com/d3559c0ed3.js:2)
-[ERROR - 2021-05-02T20:03:04.924Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - msg: TypeError: No default value
-[ERROR - 2021-05-02T20:03:04.924Z] Session [50aeb590-ab81-11eb-aae4-158dd7f6b4c5] - page.onError - stack:
-  (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
+[INFO  - 2021-05-02T21:46:13.535Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:51:13.537Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:56:13.550Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:01:13.558Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:06:13.564Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:11:13.565Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:16:13.567Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:21:13.566Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:26:13.589Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:31:13.598Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:36:13.614Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:41:13.613Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+0eee6ebb2cb0d64c793e.js:1)
   (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
   n (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
   (anonymous function) (https://fast.appcues.com/generic/main/4.31.3/appcues.main.846d9fe038e6f542a18f0eee6ebb2cb0d64c793e.js:1)
@@ -314,3 +315,14 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 [INFO  - 2021-05-02T21:32:25.057Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2021-05-02T21:37:25.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2021-05-02T21:42:25.077Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:47:25.080Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:52:25.089Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T21:57:25.093Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:02:25.096Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:07:25.096Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:12:25.096Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:17:25.096Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:22:25.097Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:27:25.119Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:32:25.126Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2021-05-02T22:37:25.127Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
