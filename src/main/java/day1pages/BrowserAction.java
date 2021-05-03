@@ -36,10 +36,10 @@ public class BrowserAction {
             else if (browser.equalsIgnoreCase("headless")) {
                 DesiredCapabilities cap=new DesiredCapabilities();
                 cap.setJavascriptEnabled(true);
-                cap.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY,"E:\\project\\automation\\src\\main\\resources\\phantomjs.exe");
+              //  cap.setCapability(PhantomJSDriverService.PHANTOMJS_EXECUTABLE_PATH_PROPERTY,"E:\\project\\automation\\src\\main\\resources\\phantomjs.exe");
                 String[] phantomJsArg={"--web-security=no","--ignore-ssl-errors=yes"};
                 cap.setCapability(PhantomJSDriverService.PHANTOMJS_GHOSTDRIVER_CLI_ARGS,phantomJsArg);
-              //  WebDriverManager.phantomjs().setup();
+               WebDriverManager.phantomjs().setup();
                 driver = new PhantomJSDriver(cap) ;
                 return driver;
             }

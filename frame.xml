@@ -6,7 +6,7 @@
         <classes>
             <class name="test.Day1"></class>
         </classes>
-    </test> <!-- Test -->
+    </test> <!-- Test
 
     <test name="onfirefox">
         <parameter name="browser" value="fireFox"/>
@@ -14,19 +14,19 @@
             <class name="test.Day1"></class>
         </classes>
 
-    </test> <!-- Test -->
+    </test> <!-- Test
     <test name="onHeadless">
         <parameter name="browser" value="headless"/>
         <classes>
             <class name="test.Day1"></class>
         </classes>
 
-    </test> <!-- Test -->
+    </test> <!-- Test
     <test name="onChromeHeadless">
         <parameter name="browser" value="chrome_headless"/>
         <classes>
             <class name="test.Day1"></class>
         </classes>
 
-    </test>
+    </test><!-- Test -->
 </suite> <!-- Suite -->
