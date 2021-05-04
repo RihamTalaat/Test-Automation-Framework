@@ -10,3 +10,6 @@ my first test automation framework
  - POM
  - Java
  - Selinume Web Driver
+ - Headless
+ - Support multiple browsers
+ - Using Data Driven to read from Excel sheet, csv File , Jason File and Proparties File                               
