@@ -12,4 +12,5 @@ my first test automation framework
  - Selinume Web Driver
  - Headless
  - Support multiple browsers
- - Using Data Driven to read from Excel sheet, csv File, Jason File and Properties File                              
+ - Using Data Driven to read from Excel sheet, csv File, Jason File and Properties File 
+ - Selenium Grid                             
