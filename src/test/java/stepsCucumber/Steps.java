@@ -5,7 +5,7 @@ import day1pages.LevelSetHomePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.junit.Assert;
+import org.testng.Assert;
 import test.Day1;
 
 public class Steps extends Day1 {
