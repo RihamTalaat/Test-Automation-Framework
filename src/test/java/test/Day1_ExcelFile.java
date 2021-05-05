@@ -5,8 +5,9 @@ import day1pages.BrowserAction;
 import day1pages.DocPage;
 import day1pages.LevelSetHomePage;
 
-import org.junit.Assert;
+
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.*;
 
 import java.io.IOException;
@@ -53,6 +54,6 @@ public class Day1_ExcelFile {
         LoadEXcl exelReader=new LoadEXcl();
        return exelReader.getExcelData();
 
-        };
+        }
 
 }
